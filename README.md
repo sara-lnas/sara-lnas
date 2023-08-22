@@ -1,6 +1,7 @@
 ### Hey! I'm Sara Letícia
 
 - 💻 I’m a web developer student;
+- 📖 Currently studying at Proa Institute.
 - 😄 Pronouns: she/her.
   ##
  
