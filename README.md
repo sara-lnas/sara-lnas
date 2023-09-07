@@ -20,9 +20,6 @@
 
   ##
 
-  ![Snake animation](https://github.com/sara-lnas/sara-lnas/blob/output/github-contribution-grid-snake.svg)
-
-
   
   
 
