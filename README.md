@@ -4,11 +4,10 @@
 - 📖 Currently studying at Proa Institute.
   ##
 
-<center>
-<a href="https://github.com/sara-lnas">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=sara-lnas&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>  
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-lnas&layout=compact&langs_count=7&theme=neon"/>
-</center>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sara-lnas&show_icons=true&count_private=true&hide_border=true&title_color=5d5fe8&icon_color=5d5fe8&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Santos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-lnas&layout=compact&hide_border=true&title_color=5d5fe8&text_color=5d5fe8&bg_color=0d1117" />
+</div>
 
 ##
  <a href = "mailto:contatosaraleticianascimento@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
