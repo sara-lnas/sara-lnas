@@ -1,10 +1,8 @@
 ### Hey! I'm Sara Letícia
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;"><br>
 <h4> 💻 I’m a systems analysis and development student; </h4>
 <h4> 🌐 Web development.</h4>
 </div>
-
 
 ##
 
