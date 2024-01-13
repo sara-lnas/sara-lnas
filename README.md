@@ -1,14 +1,12 @@
 ### Hey! I'm Sara Letícia
 
-<div style="display: flex; justify-content: space-evenly;">
-<img align="right" height="400px" src="https://github.com/sara-lnas/sara-lnas/assets/123497334/ab589237-853e-47af-b626-2865707db9b5" />
+<div style="display: flex; justify-content: space-evenly; align-items: center;"><br>
+<h4> 💻 I’m a systems analysis and development student; </h4>
+<h4> 🌐 Web development.</h4>
 </div>
 
 
-<h5> 💻 I’m a systems analysis and development student; </h5>
-<h5> 🌐 Web development.</h5>
-
-#
+##
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sara-lnas&show_icons=true&count_private=true&hide_border=true&title_color=5d5fe8&icon_color=5d5fe8&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Santos github stats" /> 
