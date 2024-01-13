@@ -1,7 +1,7 @@
 ### Hey! I'm Sara Letícia
 
 <div style="display: flex; justify-content: space-evenly;">
-<img align="right" height="200px" src="https://github.com/sara-lnas/sara-lnas/assets/123497334/ab589237-853e-47af-b626-2865707db9b5" />
+<img align="right" height="400px" src="https://github.com/sara-lnas/sara-lnas/assets/123497334/ab589237-853e-47af-b626-2865707db9b5" />
 </div>
 
 
